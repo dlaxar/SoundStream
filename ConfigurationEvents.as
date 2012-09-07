@@ -1,0 +1,1 @@
+﻿package  {		public class ConfigurationEvents {				public static const LOADED = "CONFIGURATIONLOADED";		public static const CHANGED = "CONFIGURATIONCHANGED";	}	}
