@@ -1,0 +1,1 @@
+﻿package  {		public class AudioPlayerEvents {		public static const CREATED = "AUDIOPLAYERCREATED";	}	}

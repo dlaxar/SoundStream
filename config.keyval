@@ -1,5 +1,5 @@
 name=SoundStream
 playlist=http://repositories.dev/SoundStream/playlist.list
-buffertime=2
+buffertime=2000
 preload
 autostart
