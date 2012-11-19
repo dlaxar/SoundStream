@@ -1,1 +1,1 @@
-﻿package  {		public class PlaylistEvents {				public static const LOADED = "PLAYLISTLOADED";	}	}
+﻿package  {		public class PlaylistEvents {				public static const LOADED = "PLAYLISTLOADED";		public static const NEW_ID3_DATA = "PLAYLISTNEWID3DATA";	}	}

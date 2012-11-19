@@ -1,0 +1,1 @@
+﻿package  {		public class ControlEvents {				public static const OPENED:String = "CONTROLOPENED";		public static const CLOSED:String = "CONTROLCLOSED";			}	}

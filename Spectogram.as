@@ -1,1 +1,0 @@
-﻿package  {		public class Spectogram extends MovieClip {		public function Spectogram() {		}	}	}

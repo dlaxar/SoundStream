@@ -1,0 +1,1 @@
+﻿package  {		public class UnopenableControl extends Control {		public function UnopenableControl(preferredWidth:int, preferredHeight:int, preferredColor:uint, audio:AudioPlayer) {			super(preferredWidth, preferredHeight, preferredColor, audio);			this.opens = false;		}	}	}

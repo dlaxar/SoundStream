@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;		public class View extends MovieClip {		private var audio:AudioPlayer;				public function View(audio:AudioPlayer) {			this.audio = audio;		}				public function getAudioPlayer():AudioPlayer {			return this.audio;		}	}	}
